@@ -1,2 +1,19 @@
-# Week_2-EDA-Applicants
-Week 2 EDA on 76 applications. Web Dev top (47%), Graphic lowest. Karachi Uni leads (23 apps). 31.5% acceptance rate. Created 6 charts + dashboard using Python, Pandas, Matplotlib. Dataset: applicants_cleaned.csv. Internship: NextGen Learners Data Science. Author: ZamZam Kalhoro.
+# Week 2 - EDA Internship Applicants
+
+EDA on 76 internship applications for NextGen Learners Internship.
+
+Dataset:applicants_cleaned.csv
+
+Key Insights:
+- Web Development: 36 apps (47%) - Most Popular
+- Graphic Designing: 6 apps - Least
+- Karachi University: 23 apps (30%) - Top
+- Acceptance Rate: 31.5% (23/73)
+
+Visuals: 6 Charts - Domain, University, Status Pie, Timeline, Top 10, Dashboard
+
+Tools: Python, Pandas, Matplotlib, Seaborn, Colab, GitHub
+
+File: Week2_EDA_ZamZam.ipynb
+
+Author: ZamZam Kalhoro - Data Science Intern
